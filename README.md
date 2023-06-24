@@ -9,7 +9,7 @@
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 
-## Stats
+###
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliaxZen&layout=compact&theme=tokyonight" />
 </a>
