@@ -17,12 +17,11 @@
   <img width="50.3%" align="center" src="https://github-readme-stats.vercel.app/api?username=EliaxZen&show_icons=true&theme=tokyonight" />
 </a>
 </br>
+<div align="center">
+
+![Snake animation](https://github.com/vicsantus/EliaxZen/blob/output/github-contribution-grid-snake.svg)
+
+</div>
 <a href="https://github.com/lcssathler?tab=repositories" >
   <img width="96%" border-radius="10px" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=EliaxZen&theme=react-dark" />
 </a>
-<div align="center">
-
-![Snake animation](https://github.com/vicsantus/vicsantus/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
