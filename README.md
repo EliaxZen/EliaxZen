@@ -10,18 +10,16 @@
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 
 ###
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliaxZen&layout=compact&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat" margin-left="auto">
   <img width="50.3%" align="center" src="https://github-readme-stats.vercel.app/api?username=EliaxZen&show_icons=true&theme=tokyonight" />
 </a>
 </br>
-<div align="center">
-
-![Snake animation](https://github.com/vicsantus/EliaxZen/blob/output/github-contribution-grid-snake.svg)
-
-</div>
 <a href="https://github.com/lcssathler?tab=repositories" >
   <img width="96%" border-radius="10px" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=EliaxZen&theme=react-dark" />
 </a>
+</div>
+
