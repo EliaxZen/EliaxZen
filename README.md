@@ -1,7 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=818274&height=120&section=header"/>
 
 ### [![Typing SVG](https://readme-typing-svg.demolab.com/?color=506266&lines=🌎%20Hello%20World!...)](https://git.io/typing-svg)
-## Tenho 18 anos e sou estudante de programação.
 ## 🖥️ Super Powers 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
