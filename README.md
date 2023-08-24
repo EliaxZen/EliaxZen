@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=818274&height=120&section=header"/>
 
-### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World+,+I'm+Elias...;Second+line+of+text)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F76615&vCenter=true&width=435&lines=Hello+World!!+%CA%95%E2%80%A2%E1%B4%A5%E2%80%A2%CA%94;I'm+Elias+%E2%97%95%E2%80%BF%E2%97%95)](https://git.io/typing-svg)
 ## 🖥️ Super Powers 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
