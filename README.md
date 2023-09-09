@@ -8,7 +8,7 @@
 ##
 
 <div align="center">
-  <img img width="49%" height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=EliaxZen&theme=react&show_icons=true&hide_border=false&count_private=true" />
+  <img img width="49%" height="240px" align="center" src="https://github-readme-stats.vercel.app/api?username=EliaxZen&theme=react&show_icons=true&hide_border=false&count_private=true" />
   <img img width="49%" height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliaxZen&theme=react&show_icons=true&hide_border=false&layout=compact" />
   <img img width="49%" height="240px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EliaxZen&theme=react&hide_border=false" /> 
   
