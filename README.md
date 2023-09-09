@@ -6,12 +6,15 @@
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 ##
+
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img img height="200px" width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliaxZen&layout=compact&theme=tokyonight" />
-</a>
+  <img img width="49%" height="195px" align="center" src="https://github-readme-stats.vercel.app/api?username=EliaxZen&theme=react&show_icons=true&hide_border=false&count_private=true" />
+  <img img width="49%" height="195px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EliaxZen&theme=react&hide_border=false" /> <br /><br />
+  <img img width="49%" height="195px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliaxZen&theme=react&show_icons=true&hide_border=false&layout=compact" />
+</div>
 
 </br>
+<div align="center">
 <a href="https://github.com/EliaxZen?tab=repositories" >
   <img width="`100%" border-radius="10px" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=EliaxZen&theme=react-dark" />
 </a>
