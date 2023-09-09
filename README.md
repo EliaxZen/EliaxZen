@@ -16,3 +16,15 @@
   <img width="`100%" border-radius="10px" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=EliaxZen&theme=react-dark" />
 </a>
 </div>
+
+
+
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=408ca2&height=120&section=header&rotate=180"/>
