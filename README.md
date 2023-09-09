@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=818274&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=408ca2&height=120&section=header"/>
 
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=1000&pause=1000&color=408CA2&width=900&height=100&lines=Seja+bem-vindo(a)%2C+visitante!!;Podem+me+chamar+de+Elias.;%C3%89+um+prazer+receb%C3%AA-los!!;Fiquem+a+vontade+para+conhecer+um+pouco+do+meu+trabalho.)](https://git.io/typing-svg)
 ## 🖥️ Super Powers 
