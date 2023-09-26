@@ -8,10 +8,10 @@
 ##
 
 <div align="">
-  <img img width="49%" height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=EliaxZen&theme=react&show_icons=true&hide_border=false&count_private=true" />
-  <img img width="49%" height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliaxZen&theme=react&show_icons=true&hide_border=false&layout=compact" />
+  <img img width="49%" height="270px" align="center" src="https://github-readme-stats.vercel.app/api?username=EliaxZen&theme=react&show_icons=true&hide_border=true&count_private=true" />
+  <img img width="49%" height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliaxZen&theme=react&show_icons=true&hide_border=true&layout=compact" />
   <br><br>
-  <img img width="100%" height="200px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EliaxZen&theme=react&hide_border=false" /> 
+  <img img width="100%" height="200px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EliaxZen&theme=react&hide_border=true" /> 
   
 </div>
 
