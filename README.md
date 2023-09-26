@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4697af&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&bg_color=4697af&color=4697af&height=120&section=header"/>
 
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=31&duration=2000&pause=1000&width=435&lines=Hello%2C+World!!)](https://git.io/typing-svg)
 ## 🖥️ Super Powers 
