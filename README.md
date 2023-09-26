@@ -28,11 +28,8 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{EliaxZen}/count.svg" /></p> 
 <br>
 </div>
-
-
 <br>
 <br>
 <br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=408ca2&height=120&section=footer"/>
 
-![snake animation](https://github.com/<EliaxZen>/<EliaxZen>/blob/output/github-contribution-grid-snake2.svg)
