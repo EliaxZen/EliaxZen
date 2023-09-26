@@ -35,4 +35,4 @@
 <br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=408ca2&height=120&section=footer"/>
 
-![Snake animation](https://github.com/EliaxZen/EliaxZen/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/<EliaxZen>/<EliaxZen>/blob/output/github-contribution-grid-snake2.svg)
