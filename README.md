@@ -18,7 +18,7 @@
 </br>
 <div align="center">
 <a href="https://github.com/EliaxZen?tab=repositories" >
-  <img width="`100%" border-radius="10px" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=EliaxZen&theme=react-dark" />
+  <img width="100%" border-radius="10px" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=EliaxZen&theme=react-dark" />
 </a>
 </div>
 
