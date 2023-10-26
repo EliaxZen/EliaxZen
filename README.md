@@ -6,7 +6,7 @@
 <code><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title = "HTML5"/></code>
 <code><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" title = "CSS3"/></code>
 <code><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" title = "TYPECSRIPT"/></code>
-## Social
+## 👋🏻Social
 <code><a href="https://instagram.com/elias_.code?igshid=OGQ5ZDc2ODk2ZA=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title = "Instagram"/></a></code>
 <code><a href="https://www.linkedin.com/in/elias379/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title = "LINKEDIN"/></a></code>
 <code><a href="https://github.com/EliaxZen"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title = "GitHub"/></a></code>
