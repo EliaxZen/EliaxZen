@@ -10,6 +10,8 @@
 <code><a href="https://instagram.com/elias_.code?igshid=OGQ5ZDc2ODk2ZA=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title = "Instagram"/></a></code>
 <code><a href="https://www.linkedin.com/in/elias379/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title = "LINKEDIN"/></a></code>
 <code><a href="https://github.com/EliaxZen"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title = "GitHub"/></a></code>
+<code><a href="https://wa.me/5561994156912"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" title = "WHATSAPP"/></a></code>
+<code><a href="https://my-portfolio-created-by-elias.netlify.app/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" title = "WEBSITE"/></a></code>
 ##
 
 <div align="">
