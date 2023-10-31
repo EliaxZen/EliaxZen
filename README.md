@@ -18,12 +18,8 @@
 <div align="">
   <img img width="49%" height="270px" align="center" src="https://github-readme-stats.vercel.app/api?username=EliaxZen&bg_color=0d1117&theme=react&show_icons=true&hide_border=true&count_private=true" />
   <img img width="49%" height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliaxZen&bg_color=0d1117&theme=react&show_icons=true&hide_border=true&layout=compact" />
-  <br><br>
- 
-  
 </div>
 
-</br>
 <div align="center">
 <a href="https://github.com/EliaxZen?tab=repositories" >
   <img width="100%" border-radius="10px" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=EliaxZen&theme=react-dark" />
