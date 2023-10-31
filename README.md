@@ -14,7 +14,6 @@
 <code><a href="https://wa.me/5561994156912"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" title = "WHATSAPP"/></a></code>
 <code><a href="https://my-portfolio-created-by-elias.netlify.app/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" title = "WEBSITE"/></a></code>
 ##
-
 <div align="">
   <img img width="49%" height="270px" align="center" src="https://github-readme-stats.vercel.app/api?username=EliaxZen&bg_color=0d1117&theme=react&show_icons=true&hide_border=true&count_private=true" />
   <img img width="49%" height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliaxZen&bg_color=0d1117&theme=react&show_icons=true&hide_border=true&layout=compact" />
@@ -30,10 +29,6 @@
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{EliaxZen}/count.svg" /></p> 
-<br>
 </div>
-<br>
-<br>
-<br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=408ca2&height=120&section=footer"/>
 
