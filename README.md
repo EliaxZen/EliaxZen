@@ -73,6 +73,15 @@
   </a>
 </div>
 
+<!-- GitHub Contribution Snake -->
+<div align="center" style="margin-top: 30px;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+    <img alt="github-snake" src="dist/github-snake.svg" />
+  </picture>
+</div>
+
 <!-- Contador de Visitantes -->
 <div align="center" style="margin-top: 30px;">
   <p><b>Visitors Count</b></p>
