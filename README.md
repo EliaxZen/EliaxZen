@@ -81,3 +81,12 @@
 
 <!-- Footer com efeito de onda -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=89CFF0&height=150&section=footer"/>
+
+
+
+
+## 🐍 Snake Game
+
+![GitHub Snake dark](https://github.com/EliaxZen/EliaxZen/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake light](https://github.com/EliaxZen/EliaxZen/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
