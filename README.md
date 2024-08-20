@@ -75,23 +75,24 @@
 
 <!-- GitHub Streak -->
 <div align="center" style="margin-top: 30px;">
-  <h3>🔥 Dias de Contribuição</h3>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EliaxZen&bg_color=0d1117&title_color=89CFF0&text_color=ffffff&icon_color=0A93C5&theme=react&show_icons=true&hide_border=true&layout=compact&&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="GitHub Streak"/>
+  <h3 style="color: #89CFF0;">🔥 Dias de Contribuição</h3>
+  <img src="https://streak-stats.demolab.com?user=EliaxZen&theme=windows-dark&hide_border=true&locale=pt_BR" width="48%" alt="GitHub Streak"/>
 </div>
 
 <!-- Trophies -->
 <div align="center" style="margin-top: 30px;">
-  <h3>🏆 Conquistas</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=EliaxZen&bg_color=0d1117&title_color=89CFF0&text_color=ffffff&icon_color=0A93C5&theme=react&show_icons=true&hide_border=true&layout=compact&" width="100%" alt="GitHub Trophies"/>
+  <h3 style="color: #89CFF0;">🏆 Conquistas</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=EliaxZen&no-frame=true&theme=algolia&no-bg=true&&show_icons=true&hide_border=true&layout=compact&" width="100%" alt="GitHub Trophies"/>
 </div>
 
 <!-- Gráfico de Atividade -->
 <div align="center" style="margin-top: 30px;">
-  <h3>📊 Gráfico de Atividade</h3>
+  <h3 style="color: #89CFF0;">📊 Gráfico de Atividade</h3>
   <a href="https://github.com/EliaxZen?tab=repositories">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=EliaxZen&bg_color=0d1117&color=0A93C5&line=89CFF0&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
   </a>
 </div>
+
 
 <!-- Seção de WakaTime Stats -->
 ## ⌨️ WakaTime Stats
