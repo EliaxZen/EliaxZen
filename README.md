@@ -76,13 +76,13 @@
 <!-- GitHub Streak -->
 <div align="center" style="margin-top: 30px;">
   <h3>🔥 Dias de Contribuição</h3>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EliaxZen&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EliaxZen&bg_color=0d1117&title_color=89CFF0&text_color=ffffff&icon_color=0A93C5&theme=react&show_icons=true&hide_border=true&layout=compact&&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="GitHub Streak"/>
 </div>
 
 <!-- Trophies -->
 <div align="center" style="margin-top: 30px;">
   <h3>🏆 Conquistas</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=EliaxZen&theme=react&hide_border=true&no-frame=true" width="100%" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=EliaxZen&bg_color=0d1117&title_color=89CFF0&text_color=ffffff&icon_color=0A93C5&theme=react&show_icons=true&hide_border=true&layout=compact&" width="100%" alt="GitHub Trophies"/>
 </div>
 
 <!-- Gráfico de Atividade -->
