@@ -1,0 +1,22 @@
+name: Update README with Real-Time Stats
+
+on:
+  schedule:
+    - cron: "*/1 * * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Atualizar README
+        run: |
+          curl -o README.md "https://raw.githubusercontent.com/EliaxZen/EliaxZen/main/README.md"
+      - name: Commit Changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          git commit -m "Atualiza README com dados em tempo real"
+          git push
