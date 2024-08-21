@@ -92,7 +92,7 @@
 <!-- Tempo de Codificação Semanal -->
 <div align="center" style="margin-top: 30px;">
   <h3>⏰ Tempo de Codificação</h3>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=EliaxZen&cache_seconds=300" alt="WakaTime Weekly Coding Time"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=EliaxZen&cache_seconds=3" alt="WakaTime Weekly Coding Time"/>
 </div>
 
 <!-- Contador de Visitantes -->
