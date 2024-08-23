@@ -13,7 +13,7 @@
 
 <div align="center">
   <h3>🚀 Linguagens de Programação</h3>
-  <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 20px;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-top: 20px;">
     <img src="https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black" title="JavaScript"/>
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" title="TypeScript"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python"/>
@@ -21,7 +21,7 @@
   </div>
 
   <h3 style="margin-top: 40px;">📚 Frameworks e Bibliotecas</h3>
-  <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 20px;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-top: 20px;">
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" title="React"/>
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" title="Laravel"/>
     <img src="https://img.shields.io/badge/Pandas-130754?style=for-the-badge&logo=pandas&logoColor=white" title="Pandas"/>
@@ -29,7 +29,7 @@
   </div>
 
   <h3 style="margin-top: 40px;">🛠️ Ferramentas e Plataformas</h3>
-  <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 20px;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-top: 20px;">
     <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" title="Git"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL"/>
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" title="Windows"/>
@@ -40,7 +40,7 @@
 <!-- Seção de Social -->
 ## 👋🏻 Social
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 40px;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 40px;">
   <a href="https://instagram.com/elias_.code?igshid=OGQ5ZDc2ODk2ZA==" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"/>
   </a>
@@ -61,44 +61,44 @@
 <!-- Seção de GitHub Stats -->
 ## 📊 GitHub Stats
 
-<!-- Estatísticas do GitHub -->
-<div align="center">
-  <h3>📈 Estatísticas Gerais</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=EliaxZen&bg_color=0d1117&title_color=89CFF0&text_color=ffffff&icon_color=0A93C5&theme=react&show_icons=true&hide_border=true&count_private=true&cache_seconds=300" width="48%" alt="GitHub Stats"/>
-</div>
-
 <!-- Linguagens Mais Usadas -->
 <div align="center" style="margin-top: 30px;">
   <h3>📊 Linguagens Mais Usadas</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliaxZen&bg_color=0d1117&title_color=89CFF0&text_color=ffffff&icon_color=0A93C5&theme=react&show_icons=true&hide_border=true&layout=compact&langs_count=10&cache_seconds=300" width="48%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliaxZen&bg_color=0d1117&title_color=89CFF0&text_color=ffffff&icon_color=0A93C5&theme=react&show_icons=true&hide_border=true&layout=compact&langs_count=10&cache_seconds=300" style="width: 48%;" alt="Top Languages"/>
 </div>
+
+<div align="center">
+  <h3>📈 Estatísticas Gerais</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=EliaxZen&bg_color=0d1117&title_color=89CFF0&text_color=ffffff&icon_color=0A93C5&theme=react&show_icons=true&hide_border=true&count_private=true&cache_seconds=300" style="width: 48%;" alt="GitHub Stats"/>
+</div>
+
 
 <!-- Trophies -->
 <div align="center" style="margin-top: 30px;">
   <h3 style="color: #89CFF0;">🏆 Conquistas</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=EliaxZen&no-frame=true&theme=algolia&no-bg=true&show_icons=true&hide_border=true&layout=compact&cache_seconds=300" width="100%" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=EliaxZen&no-frame=true&theme=algolia&no-bg=true&show_icons=true&hide_border=true&layout=compact&cache_seconds=300" style="max-width: 100%;" alt="GitHub Trophies"/>
 </div>
 
 <!-- Gráfico de Atividade -->
 <div align="center" style="margin-top: 30px;">
   <h3 style="color: #89CFF0;">📊 Gráfico de Atividade</h3>
   <a href="https://github.com/EliaxZen?tab=repositories">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=EliaxZen&bg_color=0d1117&color=0A93C5&line=89CFF0&point=ffffff&area=true&hide_border=true&cache_seconds=300" width="100%" alt="GitHub Activity Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=EliaxZen&bg_color=0d1117&color=0A93C5&line=89CFF0&point=ffffff&area=true&hide_border=true&cache_seconds=300" style="max-width: 100%;" alt="GitHub Activity Graph"/>
   </a>
 </div>
 
 <!-- Seção de WakaTime Stats -->
 ## ⌨️ WakaTime Stats
-<!-- Tempo de Codificação Semanal -->
+
 <div align="center" style="margin-top: 30px;">
-  <h3>⏰ Tempo de Codificação</h3>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=EliaxZen&cache_seconds=3" alt="WakaTime Weekly Coding Time"/>
+  <h3 style="color: #89CFF0;">⏰ Tempo de Codificação</h3>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=EliaxZen&bg_color=0d1117&title_color=89CFF0&text_color=ffffff&icon_color=0A93C5&theme=react&hide_border=true&cache_seconds=300" style="width: 100%;" alt="WakaTime Weekly Coding Time"/>
 </div>
 
 <!-- Contador de Visitantes -->
 <div align="center" style="margin-top: 40px;">
   <h3>👥 Contador de Visitantes</h3>
-  <img src="https://profile-counter.glitch.me/{EliaxZen}/count.svg" alt="EliaxZen :: Visitor's Count" />
+  <img src="https://profile-counter.glitch.me/{EliaxZen}/count.svg" alt="EliaxZen :: Visitor's Count"/>
 </div>
 
 <!-- Footer com efeito de onda -->
