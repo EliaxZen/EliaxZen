@@ -72,12 +72,12 @@
 
 <div align="center" style="margin-top: 30px;">
   <h3 style="color: #89CFF0;">⏰ Tempo de Codificação</h3>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=EliaxZen&bg_color=0d1117&title_color=89CFF0&text_color=ffffff&icon_color=0A93C5&theme=react&hide_border=true&cache_seconds=300" style="width: 100%;" alt="WakaTime Weekly Coding Time"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=EliaxZen&bg_color=0d1117&title_color=89CFF0&text_color=ffffff&icon_color=0A93C5&theme=react&hide_border=true&cache_seconds=300" style="width: 80%;" alt="WakaTime Weekly Coding Time"/>
 </div>
 
 <div align="center">
   <h3>📈 Estatísticas Gerais</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=EliaxZen&bg_color=0d1117&title_color=89CFF0&text_color=ffffff&icon_color=0A93C5&theme=react&show_icons=true&hide_border=true&count_private=true&cache_seconds=300" style="width: 48%;" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=EliaxZen&bg_color=0d1117&title_color=89CFF0&text_color=ffffff&icon_color=0A93C5&theme=react&show_icons=true&hide_border=true&count_private=true&cache_seconds=300" style="width: 50%;" alt="GitHub Stats"/>
 </div>
 
 
