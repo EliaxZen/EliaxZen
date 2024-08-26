@@ -64,25 +64,25 @@
 <!-- Linguagens Mais Usadas -->
 <div align="center" style="margin-top: 30px;">
   <h3>📊 Linguagens Mais Usadas</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliaxZen&bg_color=0d1117&title_color=89CFF0&text_color=ffffff&icon_color=0A93C5&theme=react&show_icons=true&hide_border=true&layout=compact&langs_count=10&cache_seconds=300" style="width: 100%; max-width: 450px;" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliaxZen&bg_color=0d1117&title_color=89CFF0&text_color=ffffff&icon_color=0A93C5&theme=react&show_icons=true&hide_border=true&layout=compact" style="width: 100%; max-width: 450px;" alt="Top Languages"/>
 </div>
 
 <div align="center">
   <h3>📈 Estatísticas Gerais</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=EliaxZen&bg_color=0d1117&title_color=89CFF0&text_color=ffffff&icon_color=0A93C5&theme=react&show_icons=true&hide_border=true&count_private=true&cache_seconds=300" style="width: 100%; max-width: 500px;" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=EliaxZen&bg_color=0d1117&title_color=89CFF0&text_color=ffffff&icon_color=0A93C5&theme=react&show_icons=true&hide_border=true&count_private=true" style="width: 100%; max-width: 500px;" alt="GitHub Stats"/>
 </div>
 
 <!-- Trophies -->
 <div align="center" style="margin-top: 30px;">
   <h3 style="color: #89CFF0;">🏆 Conquistas</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=EliaxZen&no-frame=true&theme=algolia&no-bg=true&show_icons=true&hide_border=true&layout=compact&cache_seconds=300" style="width: 100%; max-width: 650px;" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=EliaxZen&no-frame=true&theme=algolia&no-bg=true&show_icons=true&hide_border=true&layout=compact" style="width: 100%; max-width: 650px;" alt="GitHub Trophies"/>
 </div>
 
 <!-- Gráfico de Atividade -->
 <div align="center" style="margin-top: 30px;">
   <h3 style="color: #89CFF0;">📊 Gráfico de Atividade</h3>
   <a href="https://github.com/EliaxZen?tab=repositories">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=EliaxZen&bg_color=0d1117&color=0A93C5&line=89CFF0&point=ffffff&area=true&hide_border=true&cache_seconds=300" style="width: 100%; max-width: 900px;" alt="GitHub Activity Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=EliaxZen&bg_color=0d1117&color=0A93C5&line=89CFF0&point=ffffff&area=true&hide_border=true" style="width: 100%; max-width: 900px;" alt="GitHub Activity Graph"/>
   </a>
 </div>
 
@@ -91,7 +91,7 @@
 
 <div align="center" style="margin-top: 30px;">
   <h3 style="color: #89CFF0;">⏰ Tempo de Codificação</h3>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=EliaxZen&bg_color=0d1117&title_color=89CFF0&text_color=ffffff&icon_color=0A93C5&theme=react&hide_border=true&cache_seconds=300" style="width: 100%; max-width: 650px;" alt="WakaTime Weekly Coding Time"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=EliaxZen&bg_color=0d1117&title_color=89CFF0&text_color=ffffff&icon_color=0A93C5&theme=react&hide_border=true" style="width: 100%; max-width: 650px;" alt="WakaTime Weekly Coding Time"/>
 </div>
 
 <!-- Contador de Visitantes -->
