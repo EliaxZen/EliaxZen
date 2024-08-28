@@ -90,7 +90,7 @@
 ## ⌨️ WakaTime Stats
 
 <div align="center" style="margin-top: 30px;">
-  <h3 style="color: #89CFF0;">⏰ Tempo de Codificação</h3>
+  <h3 style="color: #89CFF0;">⏰ Tempo de Codificação (17/08/2024)</h3>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=EliaxZen&bg_color=0d1117&title_color=89CFF0&text_color=ffffff&icon_color=0A93C5&theme=react&hide_border=true" style="width: 100%; max-width: 650px;" alt="WakaTime Weekly Coding Time"/>
 </div>
 
