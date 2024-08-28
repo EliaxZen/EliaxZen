@@ -64,7 +64,7 @@
 <!-- Linguagens Mais Usadas -->
 <div align="center" style="margin-top: 30px;">
   <h3>📊 Linguagens Mais Usadas</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliaxZen&bg_color=0d1117&title_color=89CFF0&text_color=ffffff&icon_color=0A93C5&theme=react&show_icons=true&hide_border=true&layout=compact" style="width: 100%; max-width: 450px;" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliaxZen&bg_color=0d1117&title_color=89CFF0&text_color=ffffff&icon_color=0A93C5&theme=react&show_icons=true&hide_border=true&layout=compact&langs_count=10" style="width: 100%; max-width: 450px;" alt="Top Languages"/>
 </div>
 
 <div align="center">
